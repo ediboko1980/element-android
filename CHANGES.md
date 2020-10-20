@@ -5,7 +5,7 @@ Features ✨:
  -
 
 Improvements 🙌:
- -
+ - New room creation screen: set topic and avatar in the room creation form (#2078)
 
 Bugfix 🐛:
  -
